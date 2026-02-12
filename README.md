@@ -4,7 +4,7 @@ Im Ruben, welcome to my personal space! ✨
 
 I'm introducing myself into this infinite world of technologies trying to learn what it interest me the most.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ3bjB5cjZkejJpd24yaGE3cDhnbzFjcWVmOWRlYWd6NjN4cWtndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9VHWjnu23gP6IraNo/giphy.gif" width="150">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ3bjB5cjZkejJpd24yaGE3cDhnbzFjcWVmOWRlYWd6NjN4cWtndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9VHWjnu23gP6IraNo/giphy.gif" width="200">
 
 Im currently training my frontend knowledge, coding and some tools to be competitive, assisting with IA, but trying to not depend too much on it. 
 
