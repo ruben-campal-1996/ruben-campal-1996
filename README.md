@@ -5,9 +5,17 @@ I'm introducing myself into this infinite world of technologies trying to learn 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ3bjB5cjZkejJpd24yaGE3cDhnbzFjcWVmOWRlYWd6NjN4cWtndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9VHWjnu23gP6IraNo/giphy.gif" width="200">
 
-Im currently training my frontend knowledge, coding and some tools to be competitive, assisting with IA, but trying to not depend too much on it. 
+I've learnt some features about front and back and dedicated +1000h studying both sides. 
+
+Besides **Im focusing on learning**
+- How data flows in the software
+- Design patterns
+- How can I apply in an effective way SCRUM methods like Jira and hot documentation (living documentation thats being updated while making steps in code).
+
+When I achieve this features, Im gonna start building AI projects to complete my basic formation learning about LLMs, token/€, which LLM is better for which task and most important, how to structure the context and do a workflow with subagents. 
 
 I want to work in this sector and aim to be a good **Full-Stack Coder**, I love to learn how tools works, organize the work-flow and yeah, I have an obsession with Git.
+
 
 ---
 
